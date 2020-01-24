@@ -1,0 +1,11 @@
+{
+  "apps": [{
+      "name": "Whatsapp",
+      "url": "http://web.whatsapp.com/"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

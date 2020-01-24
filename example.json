@@ -1,0 +1,39 @@
+{
+  "apps": [{
+      "name": "Github",
+      "url": "https://github.com/",
+      "icon": "github.png"
+    },
+    {
+      "name": "Whatsapp",
+      "url": "http://web.whatsapp.com/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://tweetdeck.twitter.com/"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/",
+      "icon": "instagram.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Outlook",
+      "url": "https://outlook.live.com/",
+      "icon": "outlook.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com",
+      "icon": "gmail.png"
+    }
+  ]
+}
